@@ -1,10 +1,10 @@
 export const OWNER = "Yidadaa";
 export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const REPO_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D6HaKWVOz8koo4aox3N4-pDWFnxLoOzm&authKey=zYZbx0%2BSGDxpuUiA58YMNMjqGhP12XWDfYhhvTvKPW9ri86kf7jxPdOmru6ccO29&noverify=0&group_code=467599493`;
+export const ISSUE_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D6HaKWVOz8koo4aox3N4-pDWFnxLoOzm&authKey=zYZbx0%2BSGDxpuUiA58YMNMjqGhP12XWDfYhhvTvKPW9ri86kf7jxPdOmru6ccO29&noverify=0&group_code=467599493`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
-export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
-export const FETCH_TAG_URL = `https://api.github.com/repos/${OWNER}/${REPO}/tags?per_page=1`;
+export const FETCH_COMMIT_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D6HaKWVOz8koo4aox3N4-pDWFnxLoOzm&authKey=zYZbx0%2BSGDxpuUiA58YMNMjqGhP12XWDfYhhvTvKPW9ri86kf7jxPdOmru6ccO29&noverify=0&group_code=467599493`;
+export const FETCH_TAG_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D6HaKWVOz8koo4aox3N4-pDWFnxLoOzm&authKey=zYZbx0%2BSGDxpuUiA58YMNMjqGhP12XWDfYhhvTvKPW9ri86kf7jxPdOmru6ccO29&noverify=0&group_code=467599493`;
 export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
 
 export enum Path {
