@@ -141,6 +141,23 @@ const cn = {
       SubTitle: "管理员已开启授权访问",
       Placeholder: "请输入授权码",
     },
+
+ MjKey: {
+      Title: "MJ API Key",
+      SubTitle: "快捷配置MJ API Key",
+      Placeholder: "Midjourney API Key",
+    },
+
+    MjApiUrl: {
+      Title: "MJ API URL",
+      SubTitle: "配置MJ API URL",
+      Placeholder: "Midjourney API URL",
+    },
+
+    MjMode: {
+      name: "MJ 快速制图",
+      fastMode: false,
+    },
     Model: "模型 (model)",
     Temperature: {
       Title: "随机性 (temperature)",
