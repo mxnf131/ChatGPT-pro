@@ -126,7 +126,16 @@ const cn = {
       SubTitle: "使用自己的 Key 可绕过密码访问限制，速度更快",
       Placeholder: "OpenAI API Key",
     },
+ MjApiUrl: {
+      Title: "MJ API URL",
+      SubTitle: "配置MJ API URL",
+      Placeholder: "Midjourney API URL",
+    },
 
+    MjMode: {
+      name: "MJ 快速制图",
+      fastMode: false,
+    },
     Usage: {
       Title: "余额查询",
       SubTitle(used: any, total: any) {
@@ -143,16 +152,7 @@ const cn = {
     },
 
 
-    MjApiUrl: {
-      Title: "MJ API URL",
-      SubTitle: "配置MJ API URL",
-      Placeholder: "Midjourney API URL",
-    },
-
-    MjMode: {
-      name: "MJ 快速制图",
-      fastMode: false,
-    },
+   
     Model: "模型 (model)",
     Temperature: {
       Title: "随机性 (temperature)",
