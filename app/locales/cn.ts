@@ -160,7 +160,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "## 🤖欢迎使用\n\**近期，用户访问量激增，可能导致域名被污染、打不开情况。可进入官方[社群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=IVySclMptpOHK7cj5Es78LyjeSS6i2OQ&authKey=ne%2FxnDUEpr3lNWpxZW1rqrpisqIXRg7yAhZej4UkKLbGQdQfwQn%2BLBXfho6iPgkG&noverify=0&group_code=467599493)或下载[APP](https://wwat.lanzoul.com/b0rhs7cb)**\n\### ⭐特别说明\n\**最新地址发布页：[mxnf.tk](http://gpt1.mxnf.one)\n\公众号更新动态：[屌毛资本情报站](http://mxnf.tk)\n\GPT-4/账号/授权码等服务：[我们的商店](http://km.mxnf.one)**",
+    BotHello: "## 🤖欢迎使用\n\**近期，用户访问量激增，可能导致域名被污染、打不开情况。可进入官方[社群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=IVySclMptpOHK7cj5Es78LyjeSS6i2OQ&authKey=ne%2FxnDUEpr3lNWpxZW1rqrpisqIXRg7yAhZej4UkKLbGQdQfwQn%2BLBXfho6iPgkG&noverify=0&group_code=467599493)或下载[APP](https://wwat.lanzoul.com/b0rhs7cb)**\n\### ⭐特别说明\n\**AI工具大全：[ai.mxnf.one](http://ai.mxnf.one)\n\最新地址发布页：[mxnf.tk](http://gpt1.mxnf.one)\n\公众号更新动态：[屌毛资本情报站](http://mxnf.tk)\n\GPT-4/账号/授权码等服务：[我们的商店](http://km.mxnf.one)**",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
