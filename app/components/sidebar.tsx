@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>GPT Pro</div>
+        <div className={styles["sidebar-title"]}>GPT 4</div>
         <div className={styles["sidebar-sub-title"]}>
-          您的专属AI神器
+          GPT-4专属网站，无限提问，不定时开放
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
