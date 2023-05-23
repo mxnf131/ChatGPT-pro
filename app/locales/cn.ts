@@ -160,7 +160,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "## 🤖欢迎使用\n\**GPT-4开放时间会在社群通知：[加入社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=IVySclMptpOHK7cj5Es78LyjeSS6i2OQ&authKey=ne%2FxnDUEpr3lNWpxZW1rqrpisqIXRg7yAhZej4UkKLbGQdQfwQn%2BLBXfho6iPgkG&noverify=0&group_code=467599493)\n\\n\如GPT4无法使用，代表站长已关闭，您可继续返回到主网站畅享您的GPT3.5：[主网站](https://gpt6.iswl.tk)**\n\### ⭐特别说明\n\**AI工具大全：[ai.mxnf.one](http://ai.mxnf.one)\n\最新地址发布页：[mxnf.tk](http://mxnf.tk)\n\公众号更新动态：[屌毛资本情报站](http://mxnf.tk)\n\GPT账号/授权码等服务：[我们的商店](http://km.mxnf.one)**",
+    BotHello: "## 🤖欢迎使用\n\**1、GPT-4开放时间会在社群通知：[加入社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=IVySclMptpOHK7cj5Es78LyjeSS6i2OQ&authKey=ne%2FxnDUEpr3lNWpxZW1rqrpisqIXRg7yAhZej4UkKLbGQdQfwQn%2BLBXfho6iPgkG&noverify=0&group_code=467599493)\n\2、如GPT4无法使用，代表站长已关闭，您可继续返回到主网站畅享您的GPT3.5：[主网站](https://gpt6.iswl.tk)**\n\### ⭐特别说明\n\**AI工具大全：[ai.mxnf.one](http://ai.mxnf.one)\n\最新地址发布页：[mxnf.tk](http://mxnf.tk)\n\公众号更新动态：[屌毛资本情报站](http://mxnf.tk)\n\GPT账号/授权码等服务：[我们的商店](http://km.mxnf.one)**",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
